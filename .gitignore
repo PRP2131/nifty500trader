@@ -1,0 +1,29 @@
+# ── Secrets — NEVER commit ──────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Large data / model files ─────────────────────────────────
+cache/
+models/
+results/
+*.pkl
+*.pickle
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+trading_system.log
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# ── OS / editor ──────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
