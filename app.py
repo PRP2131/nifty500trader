@@ -146,7 +146,7 @@ header[data-testid="stHeader"]::after { display:none !important; }
 [data-testid="stDecoration"] { display:none !important; }
 
 .block-container {
-    padding-top:0.6rem !important;
+    padding-top:3.5rem !important;
     padding-bottom:2rem !important;
     background:#080e1c !important;
     max-width:1600px !important;
