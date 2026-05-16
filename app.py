@@ -721,10 +721,10 @@ st.markdown(f"""
                 letter-spacing:-0.01em;line-height:1.15;">
       📈 NIFTY 500 Positional Trader
     </div>
-    <div style="color:#1f4a6b;font-size:0.72rem;margin-top:4px;">
+    <div style="color:#7ab8d9;font-size:0.72rem;margin-top:4px;">
       14-gate signal engine &nbsp;·&nbsp; Kelly sizing &nbsp;·&nbsp; ATR trailing stop
     </div>
-    <div style="color:#1a3352;font-size:0.68rem;margin-top:6px;font-style:italic;">
+    <div style="color:#94c9f0;font-size:0.72rem;margin-top:6px;font-style:italic;font-weight:500;">
       Prasad R. Paranjape
     </div>
   </div>
